@@ -68,12 +68,13 @@ sub {
   animation: snoore 1s 0s ease-in-out alternate infinite;
 }
 
-/*.sleep__letters > *:nth-child(2) {
+.sleep__letters>*:nth-child(2) {
   font-size: 0.85em;
   -webkit-animation: snoore 1s 0.5s ease-in-out alternate infinite;
-          animation: snoore 1s 0.5s ease-in-out alternate infinite;
+  animation: snoore 1s 0.5s ease-in-out alternate infinite;
 }
-.sleep__letters > *:nth-child(3) {
+
+/*.sleep__letters > *:nth-child(3) {
   font-size: 0.95em;
   -webkit-animation: snoore 1s 1s ease-in-out alternate infinite;
           animation: snoore 1s 1s ease-in-out alternate infinite;
