@@ -48,13 +48,14 @@ sub {
   margin: 0 0.1em;
 }
 
-/*@-webkit-keyframes snoore {
+@-webkit-keyframes snoore {
   from {
     top: 0;
     opacity: 0.5;
   }
 }
-@keyframes snoore {
+
+/*@keyframes snoore {
   from {
     top: 0;
     opacity: 0.5;
