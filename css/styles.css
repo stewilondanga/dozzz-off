@@ -1,4 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Black+Han+Sans");
+
+:root {
+  font-size: 4rem;
+  font-family: 'Black Han Sans', sans-serif;
+  color: #969cb7;
+  letter-spacing: 0.025em;
+  line-height: 1.4;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -22,13 +31,6 @@
   height: 1.5em;
 }
 
-:root {
-  font-size: 4rem;
-  font-family: 'Black Han Sans', sans-serif;
-  color: #969cb7;
-  letter-spacing: 0.025em;
-  line-height: 1.4;
-}
 
 body {
   height: 100vh;
