@@ -62,12 +62,13 @@ sub {
   }
 }
 
-/*.sleep__letters > *:nth-child(1) {
+.sleep__letters>*:nth-child(1) {
   font-size: 0.75em;
   -webkit-animation: snoore 1s 0s ease-in-out alternate infinite;
-          animation: snoore 1s 0s ease-in-out alternate infinite;
+  animation: snoore 1s 0s ease-in-out alternate infinite;
 }
-.sleep__letters > *:nth-child(2) {
+
+/*.sleep__letters > *:nth-child(2) {
   font-size: 0.85em;
   -webkit-animation: snoore 1s 0.5s ease-in-out alternate infinite;
           animation: snoore 1s 0.5s ease-in-out alternate infinite;
