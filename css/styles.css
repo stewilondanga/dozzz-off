@@ -44,10 +44,11 @@ sub {
   top: 0.4em;
 }
 
-/*.sleep__letters {
+.sleep__letters {
   margin: 0 0.1em;
 }
-@-webkit-keyframes snoore {
+
+/*@-webkit-keyframes snoore {
   from {
     top: 0;
     opacity: 0.5;
