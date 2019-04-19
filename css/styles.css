@@ -8,6 +8,14 @@
   line-height: 1.4;
 }
 
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #222533;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -32,13 +40,6 @@
 }
 
 
-body {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #222533;
-}
 
 sup, sub {
   padding: 0.1em;
