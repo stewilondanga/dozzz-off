@@ -55,13 +55,14 @@ sub {
   }
 }
 
-/*@keyframes snoore {
+@keyframes snoore {
   from {
     top: 0;
     opacity: 0.5;
   }
 }
-.sleep__letters > *:nth-child(1) {
+
+/*.sleep__letters > *:nth-child(1) {
   font-size: 0.75em;
   -webkit-animation: snoore 1s 0s ease-in-out alternate infinite;
           animation: snoore 1s 0s ease-in-out alternate infinite;
